@@ -12,7 +12,6 @@
   <li><a href="home.html">Home</a></li>
 <div class="indent">
 <p class="details">
-<image class="floatleft" src="sunset.jfif" alt="sunset.jfif" height="350" width="500">
 <p>
 Hello this is Lab 1, and that is a sunset.
 <main>
